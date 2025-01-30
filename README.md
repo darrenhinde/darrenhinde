@@ -1,5 +1,3 @@
-![Alt Hi. I'm Darren](https://github.com/DarrenAIDev/DarrenAIDev/blob/main/assets/profile.png?raw=true)
-
 Hi. I'm **Darren**
 
 
