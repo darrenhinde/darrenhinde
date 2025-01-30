@@ -1,7 +1,7 @@
-Hi. I'm **Darren**
+### Hi. I'm **Darren**
 
 
-### In the evolving landscape of AI and automation, I am focused on leveraging intelligent systems to enhance real-world applications. My passion lies in blending AI with structured automation to create powerful, scalable, and adaptable solutions. From autonomous agents to AI-driven content creation, my work aims to simplify complexity while unlocking new possibilities.
+#### In the evolving landscape of AI and automation, I am focused on leveraging intelligent systems to enhance real-world applications. My passion lies in blending AI with structured automation to create powerful, scalable, and adaptable solutions. From autonomous agents to AI-driven content creation, my work aims to simplify complexity while unlocking new possibilities.
 
 I believe that AI is not just a tool but a co-pilot for innovation. By integrating AI into workflows, decision-making, and creative processes, we can push the boundaries of what’s possible. My projects explore the intersection of structured frameworks, cloud-native deployments, and AI-powered automation to deliver solutions that are efficient, scalable, and impactful.
 
